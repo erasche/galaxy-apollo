@@ -1,3 +1,7 @@
+# **DEPRECATED**
+
+This repository [has been moved](https://github.com/galaxy-genome-annotation/galaxy-tools/tree/master/tools/apollo). Please update your URLs.
+
 # galaxy-apollo
 
 Galaxy tools to interface with Apollo
